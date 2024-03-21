@@ -1,0 +1,4 @@
+J:
+  local: ./H/I/@J
+  remote: ../J.git
+  branch: main
